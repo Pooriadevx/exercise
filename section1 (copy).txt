@@ -1,0 +1,47 @@
+    <!-- navigation -->
+    <div style="width: 980px; margin: auto">
+      <div class="navigation">
+        <div class="navBar">
+          <div class="navMenu">Home</div>
+          <div class="navMenu">About Us</div>
+          <div class="navMenu">Services</div>
+          <div class="navMenu">Contact</div>
+          <div class="navMenu">Blog</div>
+          <div class="navMenu">Pages</div>
+        </div>
+        <div class="contact-us">
+          <!-- buttun -->
+          <p>Contact US</p>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+    
+    .navigation {
+  float: right;
+  cursor: pointer;
+}
+.navBar {
+  font-size: 15px;
+  color: blue;
+  margin: 35px 32px 0 0;
+  display: inline-block;
+}
+.navMenu {
+  display: inline-block;
+  margin: 0 9px;
+}
+.contact-us {
+  padding: 0 8px;
+  border-radius: 4px;
+  background-color: #3e3dbd;
+  display: inline-block;
+}
+.contact-us p {
+  color: white;
+  text-align: center;
+  margin: 6px 4px;
+}
