@@ -1,0 +1,32 @@
+.customers {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+.customers th {
+  padding: 12px 8px;
+  text-align: left;
+  background-color: rgba(24, 23, 28, 255);
+  color: white;
+}
+.customers tr td {
+  height: 60px;
+  background-color: rgba(39, 35, 44, 255);
+  color: #58515c;
+}
+.customers .diffrence td {
+  background-color: #2e2c38;
+  color: #e4dfe9;
+}
+/* .customers .diffrence td span {
+  color: #e4dfe9;
+} */
+.customers tr td {
+  padding-left: 12px;
+}
+.customers td span {
+  color: gray;
+  font-size: 17px;
+}
+.customers .diffrence	td span:nth-child(n){
+  color: #e4dfe9;
+}
