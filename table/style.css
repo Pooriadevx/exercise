@@ -12,16 +12,11 @@
   height: 60px;
   background-color: rgba(39, 35, 44, 255);
   color: #58515c;
+  padding-left: 12px;
 }
 .customers .diffrence td {
   background-color: #2e2c38;
   color: #e4dfe9;
-}
-/* .customers .diffrence td span {
-  color: #e4dfe9;
-} */
-.customers tr td {
-  padding-left: 12px;
 }
 .customers td span {
   color: gray;
